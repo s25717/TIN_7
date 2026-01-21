@@ -1,0 +1,10 @@
+{
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "logout": "Logout",
+  "mySessions": "My Sessions",
+  "students": "Students",
+  "attendance": "Attendance",
+  "noSessions": "No sessions found."
+}

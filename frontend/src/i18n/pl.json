@@ -1,0 +1,10 @@
+{
+  "login": "Zaloguj się",
+  "email": "Email",
+  "password": "Hasło",
+  "logout": "Wyloguj",
+  "mySessions": "Moje zajęcia",
+  "students": "Studenci",
+  "attendance": "Obecność",
+  "noSessions": "Brak zajęć."
+}
